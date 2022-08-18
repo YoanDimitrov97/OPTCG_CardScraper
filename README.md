@@ -8,7 +8,7 @@ For first time image saving, some of the images might be "half loaded in" or hav
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Starts the bot
 ```
 node index.js
 ```
